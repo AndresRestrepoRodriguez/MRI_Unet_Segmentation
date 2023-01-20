@@ -2,3 +2,5 @@ venv/
 *.zip
 data/
 venv_unet/
+checkpoints/
+wandb/
